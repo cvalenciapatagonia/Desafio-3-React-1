@@ -59,7 +59,7 @@ body {
 
 @media (min-width: 577px) and (max-width: 992px) {
   .app-list {
-    flex-direction: column; 
+    flex-direction: column; /* Vuelve a la dirección de columna */
   }
   .search-list-container {
     width: 700px;
